@@ -22,6 +22,6 @@ Análise de Infrações de Trânsito no Estado do Rio de Janeiro
 ## Arquivos
 - Notebook do projeto
 - Relatório de extensão
-- Slides Apresentação final
+- Slides apresentação final
 - Relatório de projeto
 - Base de dados do projeto
